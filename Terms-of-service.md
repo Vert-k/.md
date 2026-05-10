@@ -81,8 +81,8 @@ The Bot integrates with **top.gg** for a voting reward system. By clicking vote 
 We strive to keep Nasiib Bot online and functional, but we do not guarantee uninterrupted service. The Bot may experience downtime due to:
 
 - Maintenance or updates
-- Hosting platform issues (Discloud)
-- Database downtime (Neon PostgreSQL)
+- Hosting platform issues (Amazon web service)
+- Database downtime (PostGreSQL)
 - Discord API outages
 
 We are not liable for any losses (including virtual economy losses) resulting from downtime or technical issues.
