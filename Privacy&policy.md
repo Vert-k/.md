@@ -72,9 +72,9 @@ We do **not** sell, rent, or share your data with third parties for marketing pu
 
 ## 4. Data Storage & Security
 
-- All data is stored in a secured PostgreSQL database (hosted on Neon)
+- All data is stored in a secured PostgreSQL database
 - Data is only accessible to the bot and its developer
-- We apply industry-standard precautions to protect stored data
+- We apply industry standard precautions to protect stored data
 - We do **not** store Discord passwords, email addresses, or payment information
 
 ---
